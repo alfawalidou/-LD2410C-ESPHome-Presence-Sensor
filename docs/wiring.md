@@ -17,4 +17,4 @@
 - Avoid metal enclosures
 
 
-images/wiring-diagram.png
+![LD2410C Wiring Diagram](docs/images/wiring-diagram.png)
