@@ -53,7 +53,7 @@ This project provides:
 | TX | GPIO16 |
 | RX | GPIO17 |
 
-![LD2410C Wiring Diagram](../images/wiring-diagram.png)
+![LD2410C Wiring Diagram](./images/wiring-diagram.png)
 
 ---
 
