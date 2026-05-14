@@ -15,3 +15,6 @@
 - Use ESP32 hardware UART
 - Use stable 5V power
 - Avoid metal enclosures
+
+
+images/wiring-diagram.png
